@@ -41,7 +41,6 @@ $(function () {
                 $('#form_reg').click()
             }
         })
-
     })
     $('#form_login').on('submit', function (e) {
         e.preventDefault()
